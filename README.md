@@ -1,3 +1,2 @@
 # hello-world
-My first repository on  GitHub
-22 years old
+My first repository on  GitHub.I'm 22 years old.
